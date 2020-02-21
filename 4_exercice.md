@@ -8,7 +8,7 @@ N'oubliez pas de mettre tout texte additionnel en commentaire (en utilisant le s
 
 Créez un nouveau graphe qui contiendra un arbre binaire de profondeur 5.
 
-![image](4_1.png)
+![image](image/4_1.png)
 
 
 ## 2.

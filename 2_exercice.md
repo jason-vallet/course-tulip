@@ -41,4 +41,4 @@ Quelle sera la topologie du graphe final ?
 
 ## Continuons
 
-Nous pouvons passer à la [suite du cours](./3_properties.md).
+Nous pouvons passer à la [suite du cours](./3_graph_properties.md).
