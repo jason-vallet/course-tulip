@@ -31,11 +31,11 @@ Alternativement, il est possible d'initialiser ce genre d'opérations à partir 
 e = graph.getOneEdge()
 i = 0
 for n in graph.ends(e):
-    graph['viewLayout'][n] = tlpCoord(i, i+1, 0)
+    graph['viewLayout'][n] = tlp.Coord(i, i+1, 0)
     i += 1
 ```
 
-Notez qu'il est également possible d'accèder directement au noeud situé à la source de l'arête `e` avec la méthode `graph.source(e)` et au noeud destinataire de la relation avec la méthode `graph.target(e)`.
+Notez qu'il est également possible d'accéder directement au noeud situé à la source de l'arête `e` avec la méthode `graph.source(e)` et au noeud destinataire de la relation avec la méthode `graph.target(e)`.
 
 
 ## À vous de jouer

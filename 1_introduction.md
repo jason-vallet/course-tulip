@@ -1,7 +1,7 @@
 ## Introduction
 
 
-Dans ce cours, nous allons nous itéresser à l'utilisation des graphes à des fins de représentation, d'analyse et de visualisation de données.
+Dans ce cours, nous allons nous intéresser à l'utilisation des graphes à des fins de représentation, d'analyse et de visualisation de données.
 
 ## Qu'est-ce qu'un graphe?
 
@@ -26,7 +26,7 @@ Cette dernière peut également être dessinée plus proprement:
 
 ![image](image/1_2.png)
 
-Bien que les représentations ci-avant montrent le même objet, il est évident que leur lisibilité n'est pas identique. En l'occurence, bien que semblant plus accessible, le diagramme relationnel perd beaucoup de son intérêt dès que le nombre d'éléments considérés devient trop important. Il est alors nécessaire de se replier sur des techniques de visualisations alternatives que nous verrons plus tard.
+Bien que les représentations ci-avant montrent le même objet, il est évident que leur lisibilité n'est pas identique. En l’occurrence, bien que semblant plus accessible, le diagramme relationnel perd beaucoup de son intérêt dès que le nombre d'éléments considérés devient trop important. Il est alors nécessaire de se replier sur des techniques de visualisations alternatives que nous verrons plus tard.
 
 ### Orientation du graphe
 
@@ -49,7 +49,7 @@ Un graphe possède plusieurs caractéristiques le définissant et le différenci
 
 Un graphe peut également avoir un ensemble de propriétés qui sont soit définies pour le graphe lui-même ou alors pour chacun de ses éléments indépendamment (entités et relations). 
 
-Par exemple, un graphe représentant le réseau autoroutier ayant pour noeuds les différentes villes déservies et pour arêtes les autoroutes les reliants, peut avoir ses arêtes caractérisées par un poids indiquant la distance entre chaque noeud, et même par une seconde mesure indiquant le prix des péages nécessaires pour la réalisation du voyage.
+Par exemple, un graphe représentant le réseau autoroutier ayant pour noeuds les différentes villes desservies et pour arêtes les autoroutes les reliant, peut avoir ses arêtes caractérisées par un poids indiquant la distance entre chaque noeud, et même par une seconde mesure indiquant le prix des péages nécessaires pour la réalisation du voyage.
 Les villes quant à elles peuvent contenir des informations de localisation géographiques (long., lat., alt.), de taille (surface, nombre d'habitants...), etc.
 
 ### Attributs visuels

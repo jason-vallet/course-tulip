@@ -16,11 +16,11 @@ Afin de spécifier les traitements que nous souhaitons réaliser, chaque propri�
 * Size (tuple)
 
 Le **super type** *numeric* recouvre les types *integer* et *double*, nous offrant un ensemble d'opérations spécifique (tel que *max*, *min*, etc.).
-De plus chacun de ces types peut être généralisé sous la forme de vecteurs, nous permettant ainsi de stocker pour chaque élément une série de coordonnées, couleurs, ou de Booléan par exemple.
+De plus chacun de ces types peut être généralisé sous la forme de vecteurs, nous permettant ainsi de stocker pour chaque élément une série de coordonnées, couleurs, ou de Booléens par exemple.
 
 ### Accès aux propriétés
 
-De manière similaire aux accés réalisés dans *python* pour les accès aux dictionnaires, Tulip utilise la syntaxe suivante:
+De manière similaire aux accès réalisés dans *python* pour les accès aux dictionnaires, Tulip utilise la syntaxe suivante:
 
 ```python
 graph = tlp.newGraph()
