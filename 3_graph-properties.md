@@ -56,4 +56,4 @@ Ces différentes propriétés utilisent des types différents tels qu'implément
 
 ## Continuons
 
-Pas encore d'exercice pour l'instant, passons à la [suite du cours](./4_element_iteration.md)
+Pas encore d'exercice pour l'instant, passons à la [suite du cours](./4_element_iteration.md).

@@ -25,5 +25,5 @@ Créez vos répertoires pour organiser les fichiers qui seront utilisés et cré
 
 ## Références
 
-* L'outil de visualisation Tulip est disponible sur [tulip.labri.fr](tulip.labri.fr/).
+* L'outil de visualisation Tulip est disponible sur [tulip.labri.fr](https://tulip.labri.fr/).
 * Toutes les fonctionnalités liées à Tulip sous python sont indiquées dans [la documentation de l'outil](https://tulip.labri.fr/Documentation/current/tulip-dev/html/index.html) (celle-ci est aussi accessible dans l'outil via le menu *Help* ou avec le raccourci *Ctrl+P*).

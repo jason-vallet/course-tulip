@@ -18,7 +18,7 @@ Utilisez la librairie `tlpgui` pour regarder le rendu obtenu sur votre graphe et
 
 ## 4.
 
-Utilisez la vue ainsi crée pour générer une image que vous sauvegarderez.
+Utilisez la vue ainsi créée pour générer une image que vous sauvegarderez.
 
 ## Continuons
 

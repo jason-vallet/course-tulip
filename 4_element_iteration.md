@@ -40,4 +40,4 @@ Notez qu'il est également possible d'accéder directement au noeud situé à la
 
 ## À vous de jouer
 
-C'est maintenant votre tour de vérifier vos acquis en réalisant les [exercices suivants](./4_exercice.md)
+C'est maintenant votre tour de vérifier vos acquis en réalisant les [exercices suivants](./4_exercice.md).

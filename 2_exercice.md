@@ -12,7 +12,7 @@ Créez un nouveau graphe et ajoutez-y 10 nouveaux sommets. Vérifiez votre trava
 10
 ```
 
-![image](2_1.png)
+![image](image/2_1.png)
 
 
 ## 2.
@@ -30,7 +30,7 @@ Supprimez les arêtes puis réalisez la même consigne que précédemment en ne 
 
 Note: utilisez les méthodes `delEdges`, `existEdge` et `isValid`.
 
-![image](2_2.png)
+![image](image/2_2.png)
 
 ## 4.
 
@@ -41,4 +41,4 @@ Quelle sera la topologie du graphe final ?
 
 ## Continuons
 
-Nous pouvons passer à la [suite du cours](./3_graph_properties.md).
+Nous pouvons passer à la [suite du cours](./3_graph-properties.md).

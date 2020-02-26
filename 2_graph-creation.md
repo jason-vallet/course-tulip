@@ -86,4 +86,4 @@ for e in graph.edges():
 
 ## À vous de jouer
 
-C'est maintenant votre tour de vérifier vos acquis en réalisant les [exercices suivants](./2_exercice.md)
+C'est maintenant votre tour de vérifier vos acquis en réalisant les [exercices suivants](./2_exercice.md).

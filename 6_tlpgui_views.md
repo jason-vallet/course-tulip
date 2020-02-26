@@ -39,5 +39,5 @@ tlpgui.closeView(nodeLinkView)
 
 ## À vous de jouer
 
-C'est maintenant votre tour de vérifier vos acquis en réalisant les [exercices suivants](./6_exercice.md)
+C'est maintenant votre tour de vérifier vos acquis en réalisant les [exercices suivants](./6_exercice.md).
 
