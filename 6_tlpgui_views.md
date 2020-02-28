@@ -9,7 +9,7 @@ pip3 install tulipgui-python
 Nous pouvons ensuite la charger dans notre environnement python en utilisant la commande suivante.
 
 ```python
-from tuligui import *
+from tulipgui import *
 ```
 
 ## Gestion des vues
